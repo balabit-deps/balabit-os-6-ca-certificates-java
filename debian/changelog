@@ -1,3 +1,9 @@
+ca-certificates-java (20160321ubuntu1) xenial; urgency=medium
+
+  * Depend on openjdk-8 instead of openjdk-7. (LP: #1723198)
+
+ -- Eric Desrochers <eric.desrochers@canonical.com>  Thu, 14 Dec 2017 15:38:26 -0500
+
 ca-certificates-java (20160321) unstable; urgency=medium
 
   * Team upload.
